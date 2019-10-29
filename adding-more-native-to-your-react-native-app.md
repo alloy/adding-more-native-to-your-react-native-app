@@ -1,11 +1,16 @@
 # React Native Link
 
-### Who am I?
+### Who are we?
 
 - Eloy Durán
 - @alloy
 - Author of CocoaPods
 - Engineer at Artsy, where we’ve been using React Native for 3.5 years in our brownfield app
+
+- Bartol Karuza
+- @bartolkaruza
+- Engineering Manager at Chargetrip
+- React Native advocate and contributor
 
 ### What will you learn from this presentation?
 
