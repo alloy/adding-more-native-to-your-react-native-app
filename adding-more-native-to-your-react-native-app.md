@@ -111,7 +111,13 @@ corresponding `podspec` files–which are the files that describe to CocoaPods h
 **dynamically** includes those dependencies in its set of dependencies to resolve, as if they were all explicitly
 specified in the manifest.
 
-For instance, for the `lottie-react-native` example, this is what the helper will invoke:
+For instance, given a `Podfile` that includes the helper like so:
+
+```ruby
+require_relative "../node_modules/@react-native-community/cli-platform-ios/native_modules"
+```
+
+…and with `lottie-react-native` as an example, this is what the helper will invoke:
 
 ```
 $ npx --quiet react-native config
