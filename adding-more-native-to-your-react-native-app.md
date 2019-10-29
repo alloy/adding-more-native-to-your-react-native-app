@@ -1,4 +1,4 @@
-# React Native Link
+# Adding more native to your React Native app
 
 ### Who are we?
 
